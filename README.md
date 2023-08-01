@@ -1,5 +1,6 @@
 # Google-Trends-Pytrends---Daily-Trend-ETL-Databricks-Notebook
 
+
 1. Pytrends Demo ETL Notebook :
 
    a. Extracting Google Trends daily trending search term in countries using pytrends (pandas dataframe is returened)
