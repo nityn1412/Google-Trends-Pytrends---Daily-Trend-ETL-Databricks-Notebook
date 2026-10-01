@@ -16,4 +16,3 @@
    Parameterized(country field) extraction & transformation notebook to make seperate job for each country to run in parallel(not supported in DB Community Edition)
 
    Direct Notebook Link - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8881205802088401/2387488636523229/1939591732392236/latest.html
-
